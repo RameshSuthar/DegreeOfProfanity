@@ -1,0 +1,19 @@
+{
+    "info" : [
+    {
+        "id" : 0,
+        "userName" : "anand kumar",
+        "tweet" : "Compiling a playlist of something I finally get my new #Thar & head out on the highway. The 1st two I loaded are Musafir hoon yaaron & Born to be Wild. But this should be a national playlist. Songs from all languages. Suggestions please. Will share the final list..."
+    },
+    {
+        "id" : 1,
+        "userName" : "sushil kumar",
+        "tweet" : "o honour his legacy, Tagit, in koin hay hum with NUS, establishes a Bursary Award to be given to one deserving student every year, permanently."
+    },
+    {
+        "id" : 2,
+        "userName" : "akash chopra",
+        "tweet" : "the Contribution Regulation Act was suspended by the Union Home Ministry this year, four are Christian associations"
+    }
+    ]
+}
