@@ -13,7 +13,7 @@ profane = [
     'head',
     'tail',
     'compiling',
-    'musafir'
+    'playlist'
 ] # this array will store all the profane words
 
 report = [] #this array will store the result(degree of profanity) related to a particular tweet 
